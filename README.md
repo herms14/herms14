@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hermes Miraflor II. Senior Customer Engineer for Microsoft who loves to tinker with things and do random stuffs.
+- 👋 Hi, I’m Hermes Miraflor II. Senior Cloud Solutions Architect for Microsoft who loves to tinker with things and do random stuffs.
 - 👀 I’m interested in automating processes and deploying workloads on the cloud
 - 🌱 I’m currently learning Terraform , ARM Template Deployments, Ansible and a lots of other open source technologies
 - 📫 You can reach me at miraflor.hermes@microsoft.com or on my personal email hmiraflor@gmail.com
