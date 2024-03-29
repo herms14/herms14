@@ -31,4 +31,3 @@ You can reach me at my email in my Github profile or connect with me on [LinkedI
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herms14&show_icons=true&theme=transparent)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herms14&langs_count=8&theme=transparent)
