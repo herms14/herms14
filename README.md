@@ -3,6 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=herms14&style=plastic)
 
+[![GitHub followers](https://img.shields.io/github/followers/herms14.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/herms14?tab=followers)
+
 ## 👤 About Me:
 
 Profession: Cloud Solutions Architect at Microsoft.
