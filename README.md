@@ -1,12 +1,28 @@
-- 👋 Hi, I’m Hermes Miraflor II. Cloud Solutions Architect for Microsoft who loves to tinker with things and do random stuffs.
-- 👀 I’m interested in automating processes and deploying workloads on the cloud
-- 🌱 I’m currently learning Terraform , ARM Template Deployments, Ansible and lots of other open source technologies
-- 📫 You can reach me at miraflor.hermes@microsoft.com or on my personal email hmiraflor@gmail.com
+🌟 Welcome to Hermes Miraflor II's GitHub Profile! 🌟
+----
 
-<!---
-herms14/herms14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# What is the purpose of this Github Account?
+👤 About Me:
 
-<b> This Github account is for my personal terraform deployments and other projects I'm currently working on.</b>
+Profession: Cloud Solutions Architect at Microsoft.
+
+Passion: I thrive on tinkering with new technologies and automating the cloud. My curiosity drives me to explore beyond the horizon, making the digital cloud my playground.
+
+---
+👀 Interests:
+
+Professional: Automating processes, deploying scalable workloads on the cloud, and embracing the power of infrastructure as code.
+
+Personal: When not in the cloud, I'm exploring open source technologies, contributing to community projects, or delving into the latest in Terraform and Ansible.
+
+---
+🌱 Currently Learning:
+
+Diving deep into Terraform, ARM Template Deployments, Azure Bicep, Ansible, and a variety of open source technologies to enhance cloud automation and deployment strategies.
+
+---
+✨ GitHub Account Focus:
+This account showcases my journey through personal Terraform deployments and various projects I'm passionate about. From exploring new tools to contributing to open source, it's a mirror of my professional development and personal exploration in tech.
+
+---
+Feel free to explore my repositories and witness the evolution of my cloud adventures. If you're keen on collaboration or have queries, don't hesitate to reach out. Let's innovate together!
+
