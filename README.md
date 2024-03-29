@@ -1,6 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herms14)](https://github.com/herms14/github-readme-stats)
-
-
 
 🌟 Welcome to Hermes Miraflor II's GitHub Profile! 🌟
 ----
@@ -32,3 +29,4 @@ Feel free to explore my repositories and witness the evolution of my cloud adven
 
 You can reach me at my email in my Github profile or connect with me on [LinkedIn](https://www.linkedin.com/in/hrmsmrflr/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herms14&show_icons=true&theme=transparent)
