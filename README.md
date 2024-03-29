@@ -1,3 +1,7 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herms14)](https://github.com/herms14/github-readme-stats)
+
+
+
 🌟 Welcome to Hermes Miraflor II's GitHub Profile! 🌟
 ----
 
