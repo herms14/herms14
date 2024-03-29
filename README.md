@@ -11,15 +11,6 @@
   &nbsp;
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/herms14/StrapDown.js/blob/master/LICENSE)
   &nbsp;
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/herms14/StrapDown.js/releases/)
-  &nbsp;
-[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/herms14/StrapDown.js/commit/)
-  &nbsp;
-[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/herms14/StrapDown.js/watchers/)
-
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/herms14/StrapDown.js/issues/)
-  &nbsp;
-[![GitHub issues-closed](https://badgen.net/github/closed-issues/Naereen/Strapdow.js)](https://github.com/herms14/StrapDown.js/issues?q=is%3Aclosed)
 
 </p>
 
@@ -54,6 +45,8 @@ You can reach me at my email in my Github profile or connect with me on [LinkedI
   <img src="https://github-readme-stats.vercel.app/api?username=herms14&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
   &nbsp; &nbsp; &nbsp; &nbsp; 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herms14&hide_progress=true&theme=transparent" alt="Top Langs" />
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=herms14&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 
