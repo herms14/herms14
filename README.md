@@ -46,7 +46,7 @@ You can reach me at my email in my Github profile or connect with me on [LinkedI
   &nbsp; &nbsp; &nbsp; &nbsp; 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herms14&hide_progress=true&theme=transparent" alt="Top Langs" />
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=herms14&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=herms14&theme=tokyo-night)](https://github.com/herms14/github-readme-activity-graph)
 </p>
 
 
