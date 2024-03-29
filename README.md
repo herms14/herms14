@@ -1,9 +1,21 @@
 
 # Welcome to Hermes Miraflor II's GitHub Profile! 
 
-![](https://komarev.com/ghpvc/?username=herms14&style=plastic)
+<p align="center">
 
+![](https://komarev.com/ghpvc/?username=herms14&style=plastic)
+  &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/herms14.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/herms14?tab=followers)
+  &nbsp;
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+  &nbsp;
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/herms14/StrapDown.js/blob/master/LICENSE)
+  &nbsp;
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/herms14/StrapDown.js/releases/)
+  &nbsp;
+[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/herms14/StrapDown.js/commit/)
+
+</p>
 
 ## 👤 About Me:
 
@@ -34,7 +46,7 @@ You can reach me at my email in my Github profile or connect with me on [LinkedI
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=herms14&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
-  &nbsp; &nbsp; &nbsp; &nbsp; <!-- This adds space -->
+  &nbsp; &nbsp; &nbsp; &nbsp; 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herms14&hide_progress=true&theme=transparent" alt="Top Langs" />
 </p>
 
