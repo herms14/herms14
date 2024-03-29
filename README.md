@@ -1,29 +1,28 @@
 
-🌟 Welcome to Hermes Miraflor II's GitHub Profile! 🌟
+# Welcome to Hermes Miraflor II's GitHub Profile! 
 
 ![](https://komarev.com/ghpvc/?username=herms14&style=plastic)
-----
 
-👤 About Me:
+## 👤 About Me:
 
 Profession: Cloud Solutions Architect at Microsoft.
 
 Passion: I thrive on tinkering with new technologies and automating the cloud. My curiosity drives me to explore beyond the horizon, making the digital cloud my playground.
 
 ---
-👀 Interests:
+## 👀 Interests:
 
 Professional: Automating processes, deploying scalable workloads on the cloud, and embracing the power of infrastructure as code.
 
 Personal: When not in the cloud, I'm exploring open source technologies, contributing to community projects, or delving into the latest in Terraform and Ansible.
 
 ---
-🌱 Currently Learning:
+## 🌱 Currently Learning:
 
 Diving deep into Terraform, ARM Template Deployments, Azure Bicep, Ansible, and a variety of open source technologies to enhance cloud automation and deployment strategies.
 
 ---
-✨ GitHub Account Focus:
+## ✨ GitHub Account Focus:
 This account showcases my journey through personal Terraform deployments and various projects I'm passionate about. From exploring new tools to contributing to open source, it's a mirror of my professional development and personal exploration in tech.
 
 ---
