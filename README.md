@@ -26,8 +26,5 @@ This account showcases my journey through personal Terraform deployments and var
 ---
 Feel free to explore my repositories and witness the evolution of my cloud adventures. If you're keen on collaboration or have queries, don't hesitate to reach out. Let's innovate together!
 
-You can reach me at my email in my Github profile or connect with me on the follow social media channels:
+You can reach me at my email in my Github profile or connect with me on [LinkedIn](https://www.linkedin.com/in/hrmsmrflr/)
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Hermes Miraflor II on LinkedIn"/>](https://www.linkedin.com/in/hrmsmrflr/)
-
-https://twitter.com/hrmsmrflrii
