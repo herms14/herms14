@@ -14,6 +14,12 @@
 [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/herms14/StrapDown.js/releases/)
   &nbsp;
 [![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/herms14/StrapDown.js/commit/)
+  &nbsp;
+[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/herms14/StrapDown.js/watchers/)
+
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/herms14/StrapDown.js/issues/)
+  &nbsp;
+[![GitHub issues-closed](https://badgen.net/github/closed-issues/Naereen/Strapdow.js)](https://github.com/herms14/StrapDown.js/issues?q=is%3Aclosed)
 
 </p>
 
