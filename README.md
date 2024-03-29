@@ -1,5 +1,7 @@
 
 🌟 Welcome to Hermes Miraflor II's GitHub Profile! 🌟
+
+![](https://komarev.com/ghpvc/?username=herms14&style=plastic)
 ----
 
 👤 About Me:
