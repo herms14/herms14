@@ -1,5 +1,4 @@
-
-![Header](./github-header-image.png)
+# 💻 Welcome to Hermes' Github Profile 💻
 
 <p align="center">
 
