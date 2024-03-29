@@ -29,5 +29,10 @@ Feel free to explore my repositories and witness the evolution of my cloud adven
 
 You can reach me at my email in my Github profile or connect with me on [LinkedIn](https://www.linkedin.com/in/hrmsmrflr/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herms14&show_icons=true&theme=transparent)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=herms14&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
+  &nbsp; &nbsp; &nbsp; &nbsp; <!-- This adds space -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herms14&hide_progress=true&theme=transparent" alt="Top Langs" />
+</p>
+
 
